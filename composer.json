@@ -1,0 +1,15 @@
+{
+    "name": "juanp/red_social",
+    "description": "server app",
+    "autoload": {
+        "psr-4": {
+            "Juanp\\RedSocial\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cd"
+        }
+    ],
+    "require": {}
+}
